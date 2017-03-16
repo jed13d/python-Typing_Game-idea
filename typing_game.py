@@ -1,4 +1,5 @@
 '''		typing_game.py
+               by Justin Dowell
    =============================
 
    classes:
